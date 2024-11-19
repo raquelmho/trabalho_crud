@@ -7,6 +7,7 @@ Além disso, o sistema contará com ferramentas de geração de relatórios para
 Com a implementação desse projeto, espera-se melhorar o controle operacional, evitar perdas por falta de controle no estoque e aumentar a eficiência geral do negócio.
 
 - CONSULTAS SQL
+- 
 1 - Inserir um produto na tabela produtos:
 
 INSERT INTO produtos (nome, quantidade, valor) 
